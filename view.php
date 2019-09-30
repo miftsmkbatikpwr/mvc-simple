@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title><?=$data['title']?></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<h1><?=$data['header']?></h1>
